@@ -1,0 +1,13 @@
+{
+  "name": "sintaxis-studio-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Web corporativa de Sintaxis Studio (sitio estático, sin dependencias).",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node check.mjs",
+    "start": "node build.mjs && node serve.mjs"
+  }
+}

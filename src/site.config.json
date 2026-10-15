@@ -1,0 +1,17 @@
+{
+  "name": "Sintaxis Studio",
+  "tagline": "Technology, built with purpose.",
+  "url": "https://DOMINIO-PENDIENTE.example",
+  "email": "[CORREO ELECTRÓNICO DE CONTACTO]",
+  "legal": {
+    "nombre": "[DENOMINACIÓN O NOMBRE LEGAL]",
+    "forma": "[FORMA JURÍDICA / CONDICIÓN DEL TITULAR]",
+    "nif": "[NIF/CIF, SI PROCEDE]",
+    "domicilio": "[DOMICILIO O DATOS DE CONTACTO EXIGIBLES]",
+    "registro": "[DATOS REGISTRALES, SI PROCEDEN]",
+    "hosting": "[PROVEEDOR DE ALOJAMIENTO]",
+    "correoProveedor": "[PROVEEDOR DE ENVÍO DE CORREO]",
+    "conservacion": "[PLAZO DE CONSERVACIÓN A DEFINIR]",
+    "transferencias": "[INDICAR SI EXISTEN TRANSFERENCIAS INTERNACIONALES SEGÚN LOS PROVEEDORES ELEGIDOS]"
+  }
+}
